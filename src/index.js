@@ -31,6 +31,7 @@ class DemoApp extends React.Component {
       <div className="App">
         <img
           id="image"
+          alt="logo"
           src="MMC_Logo2.png"
           onClick={e => this.rotatorBaby(e)}
         />
