@@ -3,6 +3,9 @@
   text-align: center;
 }
 #image {
+  
+  height: auto;
+  width: auto;
   -webkit-animation: rotation 8s infinite linear;
 }
 
