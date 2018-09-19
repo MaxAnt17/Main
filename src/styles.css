@@ -10,7 +10,7 @@ img {
   
   height: auto;
   width: auto;
-  -webkit-animation: rotation 8s infinite linear;
+  -webkit-animation: rotation 16s infinite linear;
 }
 
 @-webkit-keyframes rotation {
